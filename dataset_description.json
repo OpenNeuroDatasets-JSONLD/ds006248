@@ -28,9 +28,7 @@
         "REACT-EU project KITE (grant number: EFRE-0801977, Plattform für KI-Translation Essen)",
         "Marie Skłodowska-Curie grant agreement No 101107932"
     ],
-    "ReferencesAndLinks": [
-        "https://doi.org/xxxxx"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "10.xxxx/xxxxx",
     "License": "CC0",
     "HowToAcknowledge": "If you use this dataset in your work, please cite:\n\nČerný M, Májovský M, Valošek J, et al. Open-access multiparametric MRI dataset of pituitary adenoma and benchmark analysis of five segmentation models. Scientific Data. [Under review].",
