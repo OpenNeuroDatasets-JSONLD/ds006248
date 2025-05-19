@@ -27,5 +27,6 @@
         "https://doi.org/xxxxx"
     ],
     "DatasetDOI": "10.xxxx/xxxxx",
-    "License": "CC0"
+    "License": "CC0",
+    "HowToAcknowledge": "If you use this dataset in your work, please cite:\n\nČerný M, Májovský M, Valošek J, et al. Open-access multiparametric MRI dataset of pituitary adenoma and benchmark analysis of five segmentation models. Scientific Data. [Under review]."
 }
