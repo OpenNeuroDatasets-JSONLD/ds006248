@@ -1,0 +1,10 @@
+{
+  "SegmentationType": "Semi-automated",
+  "GeneratedBy": "Egger 2012 GrowCut algorithm",
+  "GenerationDate": "2025-03-06T10:00:00Z",
+  "InputData": "sub-011/anat/sub-011_acq-CECor_T1w.nii.gz",
+  "LabelMap": {
+    "0": "background",
+    "1": "tumor"
+  }
+}

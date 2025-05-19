@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 6.001,
+  "EchoTime": 2.248,
+  "FlipAngle": 55.0,
+  "InstitutionName": "UVN 3.0T Architect",
+  "SeriesDescription": "3D Cor FIESTA"
+}

@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 8.056,
+  "EchoTime": 3.444,
+  "FlipAngle": 15,
+  "InstitutionName": "UVN 3.0T 750W",
+  "SeriesDescription": "3D Ax T1 +C NAVIGACE"
+}

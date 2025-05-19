@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 4599,
+  "EchoTime": 81.856,
+  "FlipAngle": 142.000000,
+  "InstitutionName": "UVN 3.0T Architect",
+  "SeriesDescription": "Cor T2 FSE EPI ver1"
+}

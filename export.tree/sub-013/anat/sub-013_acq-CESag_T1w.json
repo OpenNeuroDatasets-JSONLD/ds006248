@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 507,
+  "EchoTime": 9.344,
+  "FlipAngle": 125.0,
+  "InstitutionName": "UVN 3.0T Architect",
+  "SeriesDescription": "SAG T1 C+"
+}
