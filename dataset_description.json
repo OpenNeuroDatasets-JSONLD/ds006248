@@ -21,7 +21,12 @@
     ],
     "Acknowledgements": "We acknowledge the support of the Czech Health Research Council (grant nr. AZV NW 24-08-00324), Charles University Cooperatio Program and Project of the Ministry of Defense of the Czech Republic MO 1012. This work was supported by the Donatio Universitatis Carolinae fund of the Charles University in Prague (research project “Právní podpora nových technologií a inovací v medicíně“). This work was supported by the REACT-EU project KITE (grant number: EFRE-0801977, Plattform für KI-Translation Essen, https://kite.ikim.nrw/). Jan Valošek received funding from the European Union's Horizon Europe research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101107932.",
     "Funding": [
-        "Grant XYZ"
+        "Czech Health Research Council (grant nr. AZV NW 24-08-00324)",
+        "Charles University Cooperatio Program",
+        "Ministry of Defense of the Czech Republic Institutional Support MO 1012",
+        "Donatio Universitatis Carolinae fund of the Charles University in Prague",
+        "REACT-EU project KITE (grant number: EFRE-0801977, Plattform für KI-Translation Essen)",
+        "Marie Skłodowska-Curie grant agreement No 101107932"
     ],
     "ReferencesAndLinks": [
         "https://doi.org/xxxxx"
