@@ -29,5 +29,7 @@
     "DatasetDOI": "10.xxxx/xxxxx",
     "License": "CC0",
     "HowToAcknowledge": "If you use this dataset in your work, please cite:\n\nČerný M, Májovský M, Valošek J, et al. Open-access multiparametric MRI dataset of pituitary adenoma and benchmark analysis of five segmentation models. Scientific Data. [Under review].",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "This study was approved by the institutional ethical committee of Military University Hospital Prague (ref. nr. 108/17-11/2022). Data were anonymized at the time of patient inclusion and treated according to the ethical standards of the Declaration of Helsinki. A written informed consent with data acquisition and publication was obtained from all participants after thoroughly informing the participant."
+    ]
 }
