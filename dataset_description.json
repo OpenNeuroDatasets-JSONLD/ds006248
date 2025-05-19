@@ -10,15 +10,22 @@
         "Jan Egger",
         "Victor Staartjes",
         "Olivier Zanier",
-        "Jonathan Shapey",
         "Michaela May",
         "Ali Abbaslou",
         "Shahriar Kashiri",
-        "David Netuka"
+        "David Netuka",
+        "Gijs Luijten",
+        "Mateo Fariña Núñez",
+        "Lisle Faray de Paiva",
+        "Lea Mladá"
     ],
     "Acknowledgements": "Thanks to XYZ institution and funding agencies.",
-    "Funding": ["Grant XYZ"],
-    "ReferencesAndLinks": ["https://doi.org/xxxxx"],
-    "DatasetDOI": "10.xxxx/xxxxx"
-  }
-  
+    "Funding": [
+        "Grant XYZ"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/xxxxx"
+    ],
+    "DatasetDOI": "10.xxxx/xxxxx",
+    "License": "CC0"
+}
