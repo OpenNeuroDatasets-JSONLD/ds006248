@@ -1,0 +1,13 @@
+{
+    "Modality": "MR",
+    "Manufacturer": "GE MEDICAL SYSTEMS",
+    "MagneticFieldStrength": "3.000000",
+    "RepetitionTime": "3000.0",
+    "EchoTime": "49.483124",
+    "FlipAngle": "110.0",
+    "InstitutionName": "UVN Praha 3.0T",
+    "SeriesDescription": "PROP ADC",
+    "DiffusionBValue": "200",
+    "DiffusionDirectionality": "N/A",
+    "NumberOfGradientDirections": "N/A"
+}

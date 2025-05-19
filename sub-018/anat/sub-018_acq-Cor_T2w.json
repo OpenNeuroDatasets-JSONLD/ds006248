@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 5122,
+  "EchoTime": 89.52,
+  "FlipAngle": 142,
+  "InstitutionName": "UVN 3.0T 750W",
+  "SeriesDescription": "Cor T2 v2"
+}

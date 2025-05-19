@@ -1,0 +1,36 @@
+{
+  "SegmentationType": "Manual",
+  "CreatedBy": "Martin Cerny, MD",
+  "CreationDate": "2025-01-11T08:00:00Z",
+  "Software": {
+    "Name": "Brainlab Elements",
+    "Version": "1.7.0.166"
+  },
+  "RefinedBy": [
+    {
+      "Person": "Martin Majovsky, MD, PhD",
+      "Date": "2025-03-12T18:00:00Z",
+      "Software": {
+        "Name": "ITK-SNAP",
+        "Version": "3.8.0"
+      }
+    },
+    {
+      "Person": "Dr. John Doe",
+      "Date": "2024-03-12T12:30:00Z",
+      "Software": {
+        "Name": "ITK-SNAP",
+        "Version": "3.8.0"
+      }
+    }
+  ],
+  "LabelMap": {
+    "0": "background",
+    "1": "tumor",
+    "2": "normal gland",
+    "3": "ICA left",
+    "4": "ICA right",
+    "5": "optic chiasm"
+  },
+  "KeyFrames": []
+}

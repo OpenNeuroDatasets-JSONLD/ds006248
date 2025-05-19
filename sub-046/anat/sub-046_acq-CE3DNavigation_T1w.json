@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 8.092,
+  "EchoTime": 3.36,
+  "FlipAngle": 15,
+  "InstitutionName": "UVN Praha 3.0T",
+  "SeriesDescription": "3D Ax T1 +C NAVIGACE"
+}

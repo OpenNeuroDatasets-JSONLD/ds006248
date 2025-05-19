@@ -1,0 +1,12 @@
+{
+  "SegmentationType": "Automated",
+  "GeneratedBy": "Da Mutten 2024 Model",
+  "GenerationDate": "2025-02-07T10:48:00Z",
+  "ModelVersion": "v1.0",
+  "InputData": "sub-014/anat/sub-014_acq-CENaviAx_T1w.nii.gz",
+  "ProcessingPipeline": "resampling to 256x256x256, intensity standardization",
+  "LabelMap": {
+    "0": "background",
+    "1": "tumor"
+  }
+}

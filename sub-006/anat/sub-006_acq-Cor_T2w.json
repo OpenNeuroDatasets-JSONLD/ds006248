@@ -1,0 +1,10 @@
+{
+  "Modality": "MR",
+  "Manufacturer": "GE MEDICAL SYSTEMS",
+  "MagneticFieldStrength": 3,
+  "RepetitionTime": 4402,
+  "EchoTime": 88.368,
+  "FlipAngle": 142,
+  "InstitutionName": "UVN Praha 3.0T",
+  "SeriesDescription": "Cor T2 v2"
+}

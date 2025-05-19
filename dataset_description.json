@@ -1,0 +1,24 @@
+{
+    "Name": "Open-Access Multimodal Dataset of Pituitary Adenoma",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Martin Černý",
+        "Martin Májovský",
+        "Jan Valošek",
+        "Vojtěch Sedlák",
+        "Raffaele Da Mutten",
+        "Jan Egger",
+        "Victor Staartjes",
+        "Olivier Zanier",
+        "Jonathan Shapey",
+        "Michaela May",
+        "Ali Abbaslou",
+        "Shahriar Kashiri",
+        "David Netuka"
+    ],
+    "Acknowledgements": "Thanks to XYZ institution and funding agencies.",
+    "Funding": ["Grant XYZ"],
+    "ReferencesAndLinks": ["https://doi.org/xxxxx"],
+    "DatasetDOI": "10.xxxx/xxxxx"
+  }
+  
